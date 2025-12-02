@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "とあるAround",
+  "base_artist": "Soutaiseiriron",
+  "createdAt": "2025-12-02T18:52:33.821104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とあるAround",
+      "artist": "Sotaisei Riron",
+      "has_synced": true,
+      "path": "select/01_とあるAround_Sotaisei_Riron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とあるAround",
+      "artist": "Sōtaisei Riron (相対性理論)",
+      "has_synced": true,
+      "path": "select/02_とあるAround_Sōtaisei_Riron_(相対性理論).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とあるAround",
+      "artist": "相対性理論",
+      "has_synced": true,
+      "path": "select/03_とあるAround_相対性理論.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とあるAround",
+      "artist": "Soutaiseiriron",
+      "has_synced": false,
+      "path": "select/pl_01_とあるAround_Soutaiseiriron.txt"
+    }
+  ]
+}
